@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オーロラソング",
+  "base_artist": "a flood of circle",
+  "createdAt": "2026-03-19T04:28:23.416245Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーロラソング(X'mas Carol ver.)",
+      "artist": "a flood of circle",
+      "has_synced": false,
+      "path": "select/pl_01_オーロラソング(X'mas_Carol_ver.)_a_flood_of_circle.txt"
+    }
+  ]
+}
